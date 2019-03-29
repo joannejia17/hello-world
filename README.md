@@ -1,6 +1,6 @@
-# hello-world
+# Hello World
+
 ============== 
 
-Hi there! 
-This is Joanne Jia's first repo. I like difficult problems, human centered approaches and data driven solutions. 
-Ah oh, I think frozen grapes are the best thing in the world. Oh, out of this world. 
+Hi there! This is Joanne's first repo. I like difficult problems, human centered approaches and data driven solutions. 
+Also, I believe frozen grapes are the best thing ever. 
