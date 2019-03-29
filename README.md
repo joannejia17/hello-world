@@ -1,5 +1,5 @@
 # hello-world
-Just another repository 
+============== 
 
 Hi there! 
 This is Joanne Jia's first repo. I like difficult problems, human centered approaches and data driven solutions. 
